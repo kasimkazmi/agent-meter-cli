@@ -1,6 +1,6 @@
 # agent-meter-cli
 
-The part of agent-meter that runs on your machine, open source so you can read exactly what it does. It reports to an agent-meter server your team runs. The server and the desktop app are a separate, commercial product.
+A small status line script for Claude Code that reports your subscription quota (5-hour and weekly use), plus the settings that send Claude Code and Codex CLI usage to an agent-meter server. It is open source so you can read exactly what leaves your machine.
 
 ## What is here
 
